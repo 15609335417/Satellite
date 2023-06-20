@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1758
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "satellite", "卫星轨道计算\satellite.csproj", "{5C47F87F-2409-4FF4-BFC0-E0F2AB61011B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C47F87F-2409-4FF4-BFC0-E0F2AB61011B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C47F87F-2409-4FF4-BFC0-E0F2AB61011B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C47F87F-2409-4FF4-BFC0-E0F2AB61011B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C47F87F-2409-4FF4-BFC0-E0F2AB61011B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD8F4A96-530D-4D00-B945-168EF53FF90F}
+	EndGlobalSection
+EndGlobal
